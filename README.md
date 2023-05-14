@@ -22,3 +22,5 @@ How to compile:
 Output:
 
 Each output file will tell the status of the user ticket. If the train is not available or seats are not available then no booking and will be shown in the output file. If the booking operation is successful, output will have the ticket description for each passenger requested by the user.
+
+Note that: output folder is not in repository as folder should be empty after running inputs (and blank folders can not be uploaded on repo). So make a 'Output' folder before running.
