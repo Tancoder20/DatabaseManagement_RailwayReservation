@@ -2,9 +2,9 @@
 How to compile:
 1. Open postgres sql server.
 
-2. Create a database named db using ‘CREATE DATABASE db;’
+2. Create a database named rails using ‘CREATE DATABASE rails;’
 
-3. Now copy the contents of the sql file.
+3. Switch to rails (\c rails;) and copy the contents of the sql file.
  
 4. Now compile all java files present : client, invokeWorkers, sendQuery, ServiceModule, TrainsAdd.
  
