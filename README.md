@@ -8,7 +8,7 @@ How to compile:
  
 4. Now compile all java files present : client, invokeWorkers, sendQuery, ServiceModule, TrainsAdd.
  
-5. Make sure you have added TrainScheduling.txt and all user inputs files in the folder named ‘Input’.
+5. Make sure you have added the TrainScheduling.txt. Add all user inputs files in the folder named ‘Input’.
  
 6. Run TrainsAdd file (java TrainsAdd) to store the trains in the database.
  
